@@ -9,4 +9,4 @@ Eyes
 **Roadmap:** Make the eyes move idependently and maybe add eye lids with open and close actions...
 
 
-<img src= "Eyes.gif" alt="Eyes Excercise"/>
+<img src= "images/Eyes.gif" alt="Eyes Excercise"/>
